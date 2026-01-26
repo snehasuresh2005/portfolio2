@@ -4,6 +4,7 @@ import { LogoMarquee } from "@/components/logo-marquee"
 import { ServicesSection } from "@/components/services-section"
 import { AboutSection } from "@/components/about-section"
 import { PortfolioSection } from "@/components/portfolio-section"
+import { TechStackSection } from "@/components/tech-stack-section"
 import { ExperienceSection } from "@/components/experience-section"
 import { TestimonialsSection } from "@/components/testimonials-section"
 import { ArticlesSection } from "@/components/articles-section"
@@ -18,6 +19,7 @@ export default function Home() {
       <ServicesSection />
       <AboutSection />
       <PortfolioSection />
+      <TechStackSection />
       <ExperienceSection />
       <TestimonialsSection />
       <ArticlesSection />
