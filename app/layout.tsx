@@ -19,7 +19,7 @@ const onest = Onest({
 })
 
 export const metadata: Metadata = {
-  title: "Sneha|portfolio",
+  title: "SNEHA | Portfolio",
   description: "A playful portfolio landing page",
   generator: "v0.app",
 }
