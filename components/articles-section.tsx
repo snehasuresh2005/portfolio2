@@ -86,7 +86,7 @@ export function ArticlesSection() {
                 {/* Image area */}
                 <div className="bg-[#EDEDED] min-w-full sm:min-w-[200px] md:min-w-[280px] min-h-[180px] sm:min-h-[200px] relative m-0 sm:m-3 md:m-4 rounded-none sm:rounded-2xl overflow-hidden flex-shrink-0">
                   <span className="absolute top-3 right-3 md:top-4 md:right-4 inline-block bg-black text-white text-xs font-semibold px-3 py-1.5 rounded-lg z-10">
-                    Articles
+                    LLMs
                   </span>
                   <Image
                     src="/images/llm.png"
@@ -146,7 +146,7 @@ export function ArticlesSection() {
                 {/* Image area */}
                 <div className="bg-[#EDEDED] min-w-full sm:min-w-[200px] md:min-w-[280px] min-h-[180px] sm:min-h-[200px] relative m-0 sm:m-3 md:m-4 rounded-none sm:rounded-2xl overflow-hidden flex-shrink-0">
                   <span className="absolute top-3 right-3 md:top-4 md:right-4 inline-block bg-black text-white text-xs font-semibold px-3 py-1.5 rounded-lg z-10">
-                    News
+                    Python
                   </span>
                   <Image
                     src="/images/python.png"
