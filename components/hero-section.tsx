@@ -23,7 +23,7 @@ export function HeroSection() {
               </Button>
             </a>
             <a
-              href="https://drive.google.com/file/d/1PMFo_N5GZa0CZIyRT8A15vJpW_73u7ne/view?usp=sharing"
+              href="https://drive.google.com/file/d/1bp2q4wjFlewjMrsiRH-sF5SGq6VBbbdp/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
