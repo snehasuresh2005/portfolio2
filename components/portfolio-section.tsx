@@ -100,7 +100,7 @@ export function PortfolioSection() {
         "BuildSense is an AI-driven construction supply chain intelligence platform that minimizes material waste, carbon emissions, and logistics costs through real-time demand forecasting, autonomous route optimization, and adaptive inventory management.",
       tag: "Ongoing Project",
       logo: "/images/venture-logo.svg",
-      bgColor: "bg-[#9C27B0]",
+      bgColor: "bg-[#6366F1]",
       illustration: "/images/BuildSense.png",
       imageClassName: "p-12 object-contain",
       githubUrl: "https://github.com/snehasuresh2005/BuildSense",
