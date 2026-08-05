@@ -88,7 +88,7 @@ export function PortfolioSection() {
         "A retro pixel party game where AI generates culturally relevant cards for any theme you can think of. Tilt your phone, guess fast, and don't let the sad cat see you fail.",
       tag: "Gemini API",
       logo: "/images/venture-logo.svg",
-      bgColor: "bg-[#9C27B0]",
+      bgColor: "bg-[#2F81F7]",
       illustration: "/images/ULTHG.png",
       imageClassName: "p-12 object-contain",
       githubUrl: "https://github.com/snehasuresh2005/THE-ULTIMATE-HEADS-UP-GAME.git",
