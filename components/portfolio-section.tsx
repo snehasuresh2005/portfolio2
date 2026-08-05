@@ -23,7 +23,7 @@ export function PortfolioSection() {
     {
       title: "GigFlow",
       description:
-        "A full-stack freelance marketplace where Clients can post jobs (Gigs) and Freelancers can apply for them (Bids). Built with React, Node.js, Express, MongoDB, and Socket.io for real-time updates.",
+        "A full-stack application for maintaining sales and marketting leads . Built with React, Node.js, Express, MongoDB, and Socket.io for real-time updates.",
       tag: "UI/UX Design",
       logo: "/images/venture-logo.svg",
       bgColor: "bg-[#2F81F7]",
@@ -82,6 +82,30 @@ export function PortfolioSection() {
       githubUrl: "https://github.com/snehasuresh2005/Banklite",
       demoUrl: "https://drive.google.com/file/d/1keCaSc2MinhTpwfhKne0LZo8GsTy9ohL/view?usp=sharing",
     },
+    {
+      title: "Ultimate Heads Up Game (for mobile users)",
+      description:
+        "A retro pixel party game where AI generates culturally relevant cards for any theme you can think of. Tilt your phone, guess fast, and don't let the sad cat see you fail.",
+      tag: "Gemini API",
+      logo: "/images/venture-logo.svg",
+      bgColor: "bg-[#9C27B0]",
+      illustration: "/images/ULTHG.png",
+      imageClassName: "p-12 object-contain",
+      githubUrl: "https://github.com/snehasuresh2005/THE-ULTIMATE-HEADS-UP-GAME.git",
+      tryItUrl: "https://the-ultimate-heads-up-game.onrender.com",
+    },
+    {
+      title: "BuildSense AI",
+      description:
+        "BuildSense is an AI-driven construction supply chain intelligence platform that minimizes material waste, carbon emissions, and logistics costs through real-time demand forecasting, autonomous route optimization, and adaptive inventory management.",
+      tag: "Ongoing Project",
+      logo: "/images/venture-logo.svg",
+      bgColor: "bg-[#9C27B0]",
+      illustration: "/images/BuildSense.png",
+      imageClassName: "p-12 object-contain",
+      githubUrl: "https://github.com/snehasuresh2005/BuildSense",
+
+    }
   ]
 
   const displayedProjects = showMoreProjects ? [...projects, ...extraProjects] : projects

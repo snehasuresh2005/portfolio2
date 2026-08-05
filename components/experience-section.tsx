@@ -5,10 +5,10 @@ import Image from "next/image"
 export function ExperienceSection() {
   const experiences = [
     {
-      period: "Aug 2025 - Aug 2025",
-      title: "Graphic Designer Intern @InAmigosFoundation",
+      period: "JUN 2026 - JULY 2026",
+      title: "Research Intern @ISFCR PESU",
       description:
-        "Designed posters and reels for the foundation helping in thier cause of helping underprivileged people",
+        "Worked on 3d reconstruction of medical images using DIF Gaussain",
       icon: "/images/company.png",
     },
     {
