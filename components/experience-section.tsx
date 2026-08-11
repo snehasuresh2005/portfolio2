@@ -34,7 +34,7 @@ export function ExperienceSection() {
               Actively searching for opportunities to work as a AI/ML Engineer and Full Stack Developer XD
             </p>
             <a
-              href="https://drive.google.com/file/d/1PMFo_N5GZa0CZIyRT8A15vJpW_73u7ne/view?usp=sharing"
+              href="https://drive.google.com/file/d/1eBLk_GT4RoPQeOX_BO9Ze65exPGfXxLp/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
