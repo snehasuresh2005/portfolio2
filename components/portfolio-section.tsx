@@ -48,15 +48,16 @@ export function PortfolioSection() {
       githubUrl: "https://github.com/snehasuresh2005/CIE",
     },
     {
-      title: "OOTA- Food Delivery App",
+      title: "VideoRAG-Competitive Social Media Video RAG Chatbot",
       description:
-        "Developed Oota, a React 18 single-page application for discovering restaurants and ordering food. Implemented client-side routing, global state via Context API, and modular UI components for restaurant pages, search, popular-food carousels, cart and checkout; app communicates with an API client (axios) for backend integration",
+        "A full-stack competitive intelligence RAG chatbot that compares YouTube and Instagram content side-by-side using dynamic metadata scraping, Whisper transcription, and a LangChain-powered chat interface.",
       tag: "Web Dev",
       logo: "/images/venture-logo.svg",
       bgColor: "bg-[#4CAF50]",
-      illustration: "/images/oota.png",
+      illustration: "/images/videorag.png",
       imageClassName: "p-12 object-contain",
-      githubUrl: "https://github.com/Prerna2415/oota",
+      githubUrl: "https://github.com/snehasuresh2005/Video_Rag",
+      tryItUrl: "https://video-rag-nine.vercel.app/",
     },
     {
       title: "ResQFlow-Disaster Logistics & Emergency Resource Allocation Platform",
