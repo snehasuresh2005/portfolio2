@@ -65,7 +65,7 @@ export function PortfolioSection() {
       tag: "System Design",
       logo: "/images/venture-logo.svg",
       bgColor: "bg-[#4CAF50]",
-      illustration: "/images/resflow.png",
+      illustration: "/images/resqflow.png",
       imageClassName: "p-12 object-contain",
       githubUrl: "https://github.com/snehasuresh2005/ResQFlow.git",
       tryItUrl: "https://res-q-flow-seven.vercel.app",
