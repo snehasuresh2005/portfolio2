@@ -11,7 +11,7 @@ export function PortfolioSection() {
     {
       title: "GrihAI- AI interior designer app",
       description:
-        "Grihai is a sustainability-focused mobile app that helps users track and reduce their household environmental impact through smart insights and actionable recommendations. The app is being enhanced with AR-based features that allow users to visualize eco-friendly upgrades and resource usage in real-world spaces, making sustainable living more interactive and intuitive.",
+        "GrihAI is a privacy-first application that empowers users to reimagine their living spaces using powerful, locally-run AI models. By leveraging open-source LLMs and advanced computer vision, the app analyzes room geometries to generate stunning interior designs. It automatically detects furniture and decor hotspots using object recognition, providing users with interactive, real-time insights and smart e-commerce shopping lists for their redesigned spaces.",
       tag: "API Integration",
       logo: "/images/studio-logo.svg",
       bgColor: "bg-[#6366F1]",
