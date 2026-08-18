@@ -59,6 +59,18 @@ export function PortfolioSection() {
       githubUrl: "https://github.com/Prerna2415/oota",
     },
     {
+      title: "ResQFlow-Disaster Logistics & Emergency Resource Allocation Platform",
+      description:
+        "A Java Spring Boot platform for emergency resource allocation and disaster logistics, featuring OOP-driven allocation strategies, route optimization, real-time event processing, and fault-tolerant resource management.",
+      tag: "System Design",
+      logo: "/images/venture-logo.svg",
+      bgColor: "bg-[#4CAF50]",
+      illustration: "/images/resflow.png",
+      imageClassName: "p-12 object-contain",
+      githubUrl: "https://github.com/snehasuresh2005/ResQFlow.git",
+      tryItUrl: "https://res-q-flow-seven.vercel.app",
+    },
+    {
       title: "AI Legal Saathi",
       description:
         "AI-Legal-Saathi is a web application that leverages large‑language models and NLP to automate common legal tasks. It provides conversational Q&A, document drafting/review, and plain‑English explanations of legal text to speed up legal workflows.",
