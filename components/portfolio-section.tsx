@@ -64,7 +64,7 @@ export function PortfolioSection() {
         "A Java Spring Boot platform for emergency resource allocation and disaster logistics, featuring OOP-driven allocation strategies, route optimization, real-time event processing, and fault-tolerant resource management.",
       tag: "System Design",
       logo: "/images/venture-logo.svg",
-      bgColor: "bg-[#4CAF50]",
+      bgColor: "bg-[#2F81F7]",
       illustration: "/images/resqflow.png",
       imageClassName: "p-12 object-contain",
       githubUrl: "https://github.com/snehasuresh2005/ResQFlow.git",
